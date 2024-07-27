@@ -1,0 +1,80 @@
+body{
+    align-items: center;
+    justify-content: center;
+   display:flex;
+   height: 90vh;
+   background-image: url('../images/lies-within-us-4k-3s-1920x1200.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   color: aliceblue;
+   object-fit: contain;
+}
+.container{
+    margin: 75px;
+    padding: 20px;
+    backdrop-filter: blur(10px);
+    background: transparent;
+   box-sizing: border-box;
+   box-shadow: 10px 5px 5px rgb(112, 48, 5);
+   border-radius: 20px;
+   background: transparent;
+   border: 2px solid rgb(255, 255, 255, .2);
+}
+.title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-bottom: 30px;
+}
+.form{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.form input{
+    border-radius: 50px;
+    padding: 10px;
+    margin: 10px;
+    height: 100%;
+    width: 250px;
+    background: transparent;
+    border: 2px solid rgb(255, 255, 255, .2);
+    transition-duration: 0.4s;
+}
+.but{
+    text-align: center;
+}
+.but button{
+    border-radius: 50px;
+    padding: 10px;
+    cursor: pointer;
+    background: transparent;
+    border: 2px solid rgb(255, 255, 255, .2);
+    color: aliceblue;
+    transition-duration: 0.4s;
+}
+.but button:hover{
+    background-color: black;
+    color: rgb(199, 85, 10);
+}
+.form label{
+    color: black;
+    margin-left: 30px;
+    color: aliceblue;
+}
+.form input:hover{
+    background-color: black;
+    color: rgb(199, 85, 10);
+}
+::placeholder{
+    color: aliceblue;
+}
+p{
+    font-size: 30px;
+}
+label{
+    font-size: 15px;
+}
+
