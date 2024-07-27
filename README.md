@@ -1,6 +1,6 @@
 ---
 
-# Sign-In Page
+# Sign-In-Page
 
 This repository contains a demo sign-in page built with HTML and CSS. It serves as a simple example of creating a user interface for user authentication.
 
