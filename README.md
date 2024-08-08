@@ -69,7 +69,7 @@ To use or modify the sign-in page:
 
 2. **Customize the CSS file:**
 
-   Update the `styles.css` file to change the appearance of the sign-in page. You can adjust colors, fonts, layout, and more.
+   Update the `main.css` file to change the appearance of the sign-in page. You can adjust colors, fonts, layout, and more.
 
 3. **Test Responsiveness:**
 
